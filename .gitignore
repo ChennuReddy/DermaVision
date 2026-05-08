@@ -1,5 +1,4 @@
-# Dependencies
-node_modules/
+# Local Python environments
 .venv/
 venv/
 env/
